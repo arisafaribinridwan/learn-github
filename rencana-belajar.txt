@@ -1,0 +1,13 @@
+Rencana Belajar Pemrograman
+A. WEB APP DEVELOPMENT
+- GIT & GitHub
+  * Selesaikan list Youtube GIT di WPU
+- Html,css & bootsrap
+- PHP
+- PHP MVC
+- PHP Laravel
+- Javascript
+
+B. WEB APP DEVELOPMENT
+- Dart
+- Flutter

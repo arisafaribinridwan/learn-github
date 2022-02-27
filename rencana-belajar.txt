@@ -11,6 +11,7 @@ A. WEB APP DEVELOPMENT
 
 B. WEB APP DEVELOPMENT
 - Dart
+  ^ Selesaikan Dart Course di udemy
 - Flutter
 
 C. DESAIN GRAFIS

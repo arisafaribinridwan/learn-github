@@ -1,0 +1,12 @@
+Rencana Belajar Pemrograman
+A. WEB APP DEVELOPMENT
+- GIT & GitHub
+- Html,css & bootsrap
+- PHP
+- PHP MVC
+- PHP Laravel
+- Javascript
+
+B. WEB APP DEVELOPMENT
+- Dart
+- Flutter

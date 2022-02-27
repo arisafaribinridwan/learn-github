@@ -3,6 +3,7 @@ A. WEB APP DEVELOPMENT
 - GIT & GitHub
   * Selesaikan list Youtube GIT di WPU
 - Html,css & bootsrap
+  * Murojaah materi WBA - Fullstack Web Designer
 - PHP
 - PHP MVC
 - PHP Laravel
@@ -11,3 +12,6 @@ A. WEB APP DEVELOPMENT
 B. WEB APP DEVELOPMENT
 - Dart
 - Flutter
+
+C. DESAIN GRAFIS
+- Mobile desain grafis
